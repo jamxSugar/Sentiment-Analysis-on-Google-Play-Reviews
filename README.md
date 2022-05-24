@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Google-Play-Reviews
-Sentiment analysis on Google Play reviews for 12 retailing companies.
+**Sentiment analysis on Google Play reviews for 12 retailing companies.**
 
 With the development of e-commerce, many customers are migrating to online shopping from local stores. Online retailers have to develop user-friendly applications to attract more consumers. When evaluating the application, customer reviews are essential to show the strength and weaknesses of an app. The scores of comments are the most straightforward method of evaluation, but they can only present one dimension. However, sentiment analysis can identify if the text indicates an underlying sentiment and help understand customer feedback. 
 
